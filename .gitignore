@@ -1,0 +1,11 @@
+
+.*/
+build/
+
+*.bin
+
+*.o
+*.elf
+*.self
+
+psl1ght/tools/generic/bin2s
