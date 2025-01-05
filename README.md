@@ -18,7 +18,7 @@ The implementation is based on the work available in [karpathy/llama2.c](https:/
 
 ## Compiling
 
-For the compilation process, you will need to install the [PS3 SDK](https://github.com/ps3dev/ps3sdk). Make sure it works on your system before continuing.
+For the build process, you will need to install [ps3toolchain](https://github.com/ps3dev/ps3toolchain). Make sure it works on your system before proceeding.
 
 After that, it will be necessary to clone [karpathy/llama2.c](https://github.com/karpathy/llama2.c):
 
